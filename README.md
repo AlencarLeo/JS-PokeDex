@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  👉 <a href="https://alencarleo.github.io/JS-SearchCEP/">click here to see this project</a> 👈
+  👉 <a href="https://alencarleo.github.io/JS-PokeDex/">click here to see this project</a> 👈
 </p>
 
 <p align="center">
